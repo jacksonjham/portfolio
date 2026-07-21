@@ -1,28 +1,41 @@
 ---
-layout: cv
-title: Jackson Ham's CV
+title: "Resume"
 ---
-# Jackson Ham
-Finance Student
 
-<div id="webaddress">
-<a href="jacksonjham@gmail.com">jacksonjham@gmail.com</a>
-| <a href="www.linkedin.com/in/jackson-ham">My Linkedin page</a>
-</div>
-
-
-## Currently
-
-Studying at BYU-I
-
-### Specialized in
-
-Finance, Data Science, Business Fundamentals
+**[www.linkedin.com/in/jackson-ham](https://www.linkedin.com/in/jackson-ham)**
 
 ## Education
 
-`2021-2026`
-Brigham Young University - Idaho
+**Brigham Young University - Idaho**
+Bachelor of Science in Finance | Minor in Accounting | Certificate in Data Science
+Anticipated: Mar 2028 | GPA: 3.7
+Relevant Courses: Financial Accounting, Business Fundamentals, Business Statistics
+
+## Experience
+
+**Blackridge Industries — Framing & Concrete Specialist**
+*Rexburg, Idaho | Apr 2025 – Sep 2025*
+
+- Collaborated with a team of 2-10 tradespeople to pour, level, and finish concrete foundations, slabs, and sidewalks to meet tight project deadlines and quality standards
+- Trained new crew members on framing systems, formwork techniques, and equipment safety, resulting in 0 on-site incidents
+- Operated heavy equipment such as power saws, nail guns, and telescopic handlers
+
+## Volunteer Experience
+
+**The Church of Jesus Christ of Latter-day Saints — Full-Time Volunteer Representative**
+*Toronto, Ontario, Canada | Nov 2022 – Dec 2024*
+
+- Helped hundreds of individuals reach spiritual goals by developing and implementing lesson plans and strategies
+
+## Skills
+
+**Technical:** Excel, GAAP, SQL, Python
+**Soft Skills:** Self-motivated, Leadership, Collaboration
+
+## Projects
+
+- Analyzed 7 publicly traded tech stocks (including Apple, NVIDIA, and Microsoft) using Excel's STOCKHISTORY and XLOOKUP functions to evaluate 10-year price trends, volatility, and risk-adjusted returns
+- Synthesized findings into a ranked investment recommendation supported by 8 dynamic charts and a dropdown company comparison dashboard
 
 <!-- ### Footer
 

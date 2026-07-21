@@ -4,7 +4,8 @@ subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Jackson Ham
+Finance student at BYU-Idaho with a minor in Accounting and a Certificate in Data Science. I'm passionate about using data-driven insights and AI tools to solve real-world problems in finance, with long-term goals in real estate development.
+
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
