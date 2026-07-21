@@ -33,9 +33,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Jackson Ham’s CV",
+    "title": "Resume",
     "section": "",
-    "text": "Finance Student\n\njacksonjham@gmail.com | My Linkedin page\n\n\n\nStudying at BYU-I\n\n\nFinance, Data Science, Business Fundamentals\n\n\n\n\n2021-2026 Brigham Young University - Idaho"
+    "text": "www.linkedin.com/in/jackson-ham"
   },
   {
     "objectID": "resume.html#currently",
@@ -47,9 +47,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Jackson Ham’s CV",
-    "section": "",
-    "text": "2021-2026 Brigham Young University - Idaho"
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nBrigham Young University - Idaho Bachelor of Science in Finance | Minor in Accounting | Certificate in Data Science Anticipated: Mar 2028 | GPA: 3.7 Relevant Courses: Financial Accounting, Business Fundamentals, Business Statistics"
   },
   {
     "objectID": "resume.html#awards",
@@ -363,5 +363,33 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\nBlackridge Industries — Framing & Concrete Specialist Rexburg, Idaho | Apr 2025 – Sep 2025\n\nCollaborated with a team of 2-10 tradespeople to pour, level, and finish concrete foundations, slabs, and sidewalks to meet tight project deadlines and quality standards\nTrained new crew members on framing systems, formwork techniques, and equipment safety, resulting in 0 on-site incidents\nOperated heavy equipment such as power saws, nail guns, and telescopic handlers"
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Resume",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\nThe Church of Jesus Christ of Latter-day Saints — Full-Time Volunteer Representative Toronto, Ontario, Canada | Nov 2022 – Dec 2024\n\nHelped hundreds of individuals reach spiritual goals by developing and implementing lesson plans and strategies"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\nTechnical: Excel, GAAP, SQL, Python Soft Skills: Self-motivated, Leadership, Collaboration"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "Projects",
+    "text": "Projects\n\nAnalyzed 7 publicly traded tech stocks (including Apple, NVIDIA, and Microsoft) using Excel’s STOCKHISTORY and XLOOKUP functions to evaluate 10-year price trends, volatility, and risk-adjusted returns\nSynthesized findings into a ranked investment recommendation supported by 8 dynamic charts and a dropdown company comparison dashboard"
   }
 ]
